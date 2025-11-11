@@ -1,4 +1,4 @@
-download file .xlsx
+download file .xlsm
 open file
 click enable macros
 enter in DMS from Google Earth of the center of the circle you want to make
